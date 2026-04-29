@@ -17,5 +17,5 @@ aws ec2 run-instances \
 aws ec2 describe-instances
 
 # Termine instância
-aws ec2 terminate-instances --instance-ids 
+aws ec2 terminate-instances --instance-ids   
 i-0e19fcb8c8c352480
